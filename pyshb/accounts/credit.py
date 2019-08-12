@@ -25,7 +25,7 @@ class SHBCreditAccount(SHBBaseAccount):
         # Init info dict with info_keys to None
         info_keys = ('beviljad_kredit', 'kontoform',
                      'saldo_på_kontot', 'clearingnummer', 'kortköp_ej_fakturerat', 'kortköp_fakturerat',
-                     'disponibelt_belopp'
+                     'disponibelt_belopp',
                      'konto', 'period', 'transtyp', 'belopp', 'antal_transaktioner')
 
         self.info = dict.fromkeys(info_keys)
