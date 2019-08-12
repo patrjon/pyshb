@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</HEAD>
+
+
+
+<body>
+<FORM name="excelaccounttransactions" action="/bb/seip/servlet/UASipko?amp;random=626950" method="post">
+<input type="hidden" name="clientreqtoken" value="a44dacbc0d">
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<TR>
+
+<TD align="left">Beviljad kredit:</TD> 
+<TD  align="right">1 000 000 000,00</TD>
+<TD  align="left" >&nbsp;</TD>
+<TD align="left">Kontoform:</TD>
+<TD  align="left">Allkortskonto</TD>
+	
+</TR>
+</TABLE>
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr>
+
+	<td align="left">Saldo på kontot:</td> 
+
+<td align="right">10 000,00</td>
+<td align="left">&nbsp;</td> 
+
+	<TD align="left">Clearingnummer:</TD>
+	<TD  align="left">0000</TD>
+	
+</tr>
+
+
+
+
+	<tr>
+		<td>Kortköp - ej fakturerat:</td> 
+		<td align="right">-2 485,52</td>
+		<td colspan="3">&nbsp;</td> 
+	</tr>
+	<tr>
+		<td>Kortköp - fakturerat:</td> 
+		<td align="right">0,00</td>
+		<td colspan="3">&nbsp;</td> 
+	</tr>
+	<tr>
+		<td>Disponibelt belopp:</td> 
+		<td align="right">2 353,55</td>
+		<td colspan="3">&nbsp;</td> 
+	</tr>
+	
+</TABLE>
+<br>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr><td width="585" align="left" colspan="5">Konto: 333 333 333&nbsp;&nbsp;Period: 2019-07-01 till 2019-08-12&nbsp;&nbsp;Transtyp:&nbsp;Alla&nbsp;&nbsp;Belopp: Alla&nbsp; Antal transaktioner:&nbsp;2</td></tr>
+<tr><td width="585" align="left" colspan="5">&nbsp;</td></tr>
+</TABLE>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+ <TR><TD class="SHBHeader" style='font-weight: bold;'>Reskontradatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Transaktionsdatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Text</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader" style='font-weight: bold;'>Belopp</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader" style='font-weight: bold;'>Saldo</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2019-07-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2019-07-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Mobil</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-185,00</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">8 350,86</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2019-06-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2019-06-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Periodens köp</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 260,83</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">8 535,86</TD></TR>
+
+</TABLE>
+
+</FORM>
+</body>
+</HTML>
